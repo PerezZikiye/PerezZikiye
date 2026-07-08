@@ -1,72 +1,125 @@
-<h1  align="center">
- <strong> Hey there</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+  Hi, I'm Perez Joseph Zikiye
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
 </h1>
-<h3 id="header" align="center"><strong>I'm honored you're visiting my GitHub! :octocat:</strong> </h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="500"/>
+<h3 align="center">Software Engineer · Laravel Developer · Educator</h3>
+
+<p align="center">
+I design and build secure, scalable web applications and enterprise systems, with a focus on clean architecture and maintainable code.
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation"/>
 </div>
 
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/perez-joseph-zikiye-143b98269/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/perezzikiye" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+  <a href="mailto:pjzikiye@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/perezzikiye" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=perezzikiye&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=perezzikiye&style=flat-square&color=blue" alt=""/>
-</div>
+---
 
-<hr>
+## About Me
 
+Software Engineer and Computer Technologist based in Nigeria, specializing in backend development with **PHP and Laravel**. I hold a **B.Ed. in Computer Science** and an **M.Ed.**, which gives me a unique blend of engineering skill and instructional expertise — I build software and I teach others how to build it.
 
-<h3>👩‍💻  About Me : </h3>
+**What I do:**
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- Build enterprise web applications with PHP and Laravel
+- Design relational databases and RESTful APIs
+- Implement secure authentication and role-based access control systems
+- Develop educational technology, including university management platforms
+- Explore AI integration into web applications
 
-- 🔭 I'm employed as a System Analyst and an Intermediate Programmer, involved in both frontend and backend development to construct web applications.
-- 🌱 I’m currently learning advance python and more on Php Laravel Framework
-- 👯  Exploring Technical Content Writing.
-- 📫 How to reach me:   Linkedin Badge
-- ⚡ In my leisure time I write articles related to ICT and Cryptocurrency problem-solving, and read tech articles.- 
-- 💬 Talk to me about your next web and mobile application development [![Linkedin Badge](https://img.shields.io/badge/-perezjosephzikiye-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/perez-joseph-zikiye-143b98269/)
+**Currently learning:** advanced Laravel architecture, Python for AI and automation, software design patterns, and cloud deployment/DevOps.
 
-<hr>
+**Open to:** remote software engineering roles, backend and full-stack Laravel positions, and open-source collaboration.
 
-  ### :hammer_and_wrench: Skills :
+---
 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="postgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-</div>
-   <hr>
-   ---
+## Tech Stack
 
-### :fire: My Stats :
-<div>
-  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=perezzikiye&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
-</div>  
-<hr>
+**Languages**
 
-### :writing_hand: Blog Posts :
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!-- BLOG-POST-LIST:START -->
+**Frameworks & Libraries**
 
-<!-- BLOG-POST-LIST:END -->
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| **University Management System** | End-to-end platform for academic administration, registration, and records |
+| **Computer Based Test (CBT) System** | Secure online examination platform with automated grading |
+| **Journal Publishing Platform** | Manuscript submission, peer review, and publication workflow |
+| **Human Resource Management System** | Employee records, payroll, and leave management |
+| **Anti-Money Laundering (AML) Platform** | Compliance and transaction-monitoring solution |
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/perezzikiye">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=perezzikiye&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/perezzikiye">
+    <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=perezzikiye&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/perezzikiye">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perezzikiye&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
+
+---
+
+## Contact
+
+<p>
+  <a href="mailto:pjzikiye@gmail.com">
+    <img src="https://img.shields.io/badge/pjzikiye@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/perezzikiye" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin.com/in/perezzikiye-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/perezzikiye" target="_blank">
+    <img src="https://img.shields.io/badge/github.com/perezzikiye-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center"><i>"Building technology that solves real-world problems through clean, scalable, and maintainable code."</i></p>
