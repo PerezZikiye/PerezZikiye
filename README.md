@@ -88,13 +88,6 @@ Software Engineer and Computer Technologist based in Nigeria, specializing in ba
 | **Anti-Money Laundering (AML) Platform** | Compliance and transaction-monitoring solution |
 
 ---
-
-## GitHub Statistics
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=perezzikiye&theme=radical&hide_border=true" />
-</p>
-
 ## Contact
 
 <p>
