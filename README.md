@@ -90,10 +90,18 @@ Software Engineer and Computer Technologist based in Nigeria, specializing in ba
 ---
 
 ## 📊 GitHub Statistics
+
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PerezZikiye&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=PerezZikiye&theme=github-dark-blue&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PerezZikiye&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerezZikiye&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=PerezZikiye&theme=radical&hide_border=true" />
+</p>
+
+---
 
 ---
 
